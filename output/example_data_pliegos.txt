@@ -1,0 +1,651 @@
+{
+    "03ce079bd1c9a50f9e37e1ece176f6af8212cef8": {
+        "desc": "DESAGUE PLUVIAL CALLE INDEPENDENCIA I\u00ba ETAPA TRAMO CALLE INDEPENDENCIA ENTRE AMEGHINO Y A\u00ba LANGUEYU", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:37,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 24/06/2016", 
+            "Hora de Apertura:  10:00 hs.", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 7800"
+        ], 
+        "title": "LICITACION PUBLICA N\u00ba 04-01-16"
+    }, 
+    "050123e1cc81f257ab2222f03c2fd248b08d6957": {
+        "desc": "CONTRATACION PARA LA PROVISION, INSTALACION, MANTENIMIENTO Y PUESTA EN MARCHA DEL EQUIPAMIENTO TECNICO (HARDWARE), SISTEMAS INFORMATICOS (SOFTWARE), Y SOPORTE TECNICO DE UN SISTEMA INTEGRAL DE VIDEO VIGILANCIA URBANA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:28,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 26/08/2016", 
+            "Hora de Apertura:  1:000 hs.", 
+            "Lugar de Apertura:  Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 10000"
+        ], 
+        "title": "LICITACION PUBLICA N\u00ba 11-01-16"
+    }, 
+    "06bb4249eb47b73bb016839e9005479eeadfe5aa": {
+        "desc": "EJECUCI\u00d3N DE LA OBRA RED DE GAS\r\nNATURAL Urbanizaci\u00f3n B\u00ba Parque La Movediza y El Tropez\u00f3n", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:262,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:262,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 26/01/2017", 
+            "Hora de Apertura: 11:00hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 9260"
+        ], 
+        "title": "LICITACI\u00d3N P\u00daBLICA N\u00ba 03-01-17"
+    }, 
+    "0a7948219416daea2badf18255886f1fd170e970": {
+        "desc": "REPAVIMENTACION Y ENSANCHE AV. PUJOL TRAMO ENTRE CALLE QUINTANA Y AV. LUNGHI", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:35,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 27/07/2016", 
+            "Hora de Apertura:  12:00 hs.", 
+            "Lugar de Apertura:  Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 8210"
+        ], 
+        "title": "LICITACION PUBLICA N\u00ba 09-01-16"
+    }, 
+    "0aa1a14f6c990bc89546f4d5a3214bf1be1403dd": {
+        "desc": "DESARROLLO Y PUESTA EN MARCHA DEL SITIO WEB DE RESERVAS HOTELERAS AUTOGESTIONABLES", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:242,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 10/01/2017", 
+            "Hora de Apertura: 10:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 3000"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA 26-01-16"
+    }, 
+    "0ece03c3f7c81d6ba07d9c4f8a7c7ac7d8f784a4": {
+        "desc": "PROVISION DE CA\u00d1OS PARA RED COLECTORA NOROESTE", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:39,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 03/10/2016", 
+            "Hora de Apertura:  11:00 hs.", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 1750"
+        ], 
+        "title": "LICITACION P\u00daBLICA N\u00ba 14-01-16"
+    }, 
+    "1524230ee7f94617ac49788694d92d55d7a5b1b1": {
+        "desc": "CONTRATACION DE MANO DE OBRA Y MATERIALES PARA LA AMPLIACION DEL JARDIN DE INFANTES N\u00ba 917", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:29,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 19/08/2016", 
+            "Hora de Apertura:  12:00 hs.", 
+            "Lugar de Apertura:  Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 2500"
+        ], 
+        "title": "LICITACION PUBLICA N\u00ba 10-01-16"
+    }, 
+    "1700e533457c5dc142171608513c9205a08484d6": {
+        "desc": "PROVISION Y COLOCACION DE ABERTURAS PARA EL NUEVO EDIFICIO DE VIALIDAD MUNICIPAL", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:32,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 26/07/2016", 
+            "Hora de Apertura:  11:00 hs.", 
+            "Lugar de Apertura:  Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego:", 
+            "Nro. Expediente: EXPEDIENTE: 09198-2016"
+        ], 
+        "title": "LICITACION PRIVADA N\u00ba27-02-16"
+    }, 
+    "1d38899656e90397bc6b40b41d4a094acbca0311": {
+        "desc": "REPAVIMENTACION 10 CUADRAS CON ASFALTO CALIENTE", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:322,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 24/02/2017", 
+            "Hora de Apertura: 11:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 10900"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA 08-01-17"
+    }, 
+    "204685fbe807ebe2e1f51c264befce76927ed6e8": {
+        "desc": "EXTENSI\u00d3N RED DE GAS EN BARRIO LOS AROMOS - 1\u00ba ETAPA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:33,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:33,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 06/07/2016", 
+            "Hora de Apertura:  10:00 hs.", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego:"
+        ], 
+        "title": "LICITACION PRIVADA N\u00ba 25-02-16"
+    }, 
+    "23f8a40fc2c68f791c14304d8038213e7aa143c0": {
+        "desc": "EJECUCI\u00d3N DEL NUEVO PREDIO RELLENO SANITARIO TANDIL", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:161,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:161,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 17/11/2016", 
+            "Hora de Apertura: 11:00hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego:", 
+            "Nro. Expediente: 14.941-2016"
+        ], 
+        "title": "LICITACI\u00d3N PRIVADA 39-02-16"
+    }, 
+    "2730455fda1d27511f9f3be40ad3f7954a246746": {
+        "desc": "DESAGUES PLUVIALES Y CORD\u00d3N CUNETA EN BARRIO PRO.CRE.AR. 256 VIVIENDAS", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:61,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:61,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 03/10/2016", 
+            "Hora de Apertura: 10:00", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 8158"
+        ], 
+        "title": "LICITACION PUBLICA N\u00ba 15-01-16"
+    }, 
+    "2c5d471d321f958bd3ab4bbe16fa706b4a416d32": {
+        "desc": "EJECUCION RED DE AGUA POTABLE Y CONEXIONES DOMICILIARIAS Urbanizaci\u00f3n B\u00ba Parque La Movediza y El Tropez\u00f3n", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:263,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:263,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 26/01/2017", 
+            "Hora de Apertura: 10:00hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 4254"
+        ], 
+        "title": "LICITACI\u00d3N P\u00daBLICA N\u00ba 02-01-17"
+    }, 
+    "434de4d234dd6e514b6770a72ea9c1c1d93702be": {
+        "desc": "PAVIMENTACION 22 CUADRAS TANDIL, MA IGNACIA VELA Y GARDEY Y DESAGUES PLUVIALES", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:363,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:363,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 07/04/2017", 
+            "Hora de Apertura: 11:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Pta. Alta,Tandil.", 
+            "Valor del Pliego: 21781", 
+            "Nro. Expediente: E20170288100"
+        ], 
+        "title": "LICITACI\u00d3N P\u00daBLICA N\u00ba 17-01-17"
+    }, 
+    "435aabe251ae970c641aa652123c886bc4a41f3b": {
+        "desc": "DESAG\u00dcES PLUVIALES (cord\u00f3n cuneta y conducto), ARENADO DE CALLES Y OBRAS DE PAVIMENTO Urbanizaci\u00f3n B\u00ba Parque La Movediza y El Tropez\u00f3n", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:264,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:264,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 26/01/2017", 
+            "Hora de Apertura: 09:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 20137"
+        ], 
+        "title": "LICITACI\u00d3N P\u00daBLICA N\u00ba 01-01-17"
+    }, 
+    "51e80da38cd7784a43d6c1043f3bc88b130345ed": {
+        "desc": "PERFORACIONES Y CA\u00d1ERIAS DE IMPULSION-URBANIZACI\u00d3N B\u00ba PARQUE LA MOVEDIZA Y EL TROPEZ\u00d3N", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:364,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 07/04/2017", 
+            "Hora de Apertura: 12:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Pta. Alta, Tandil.", 
+            "Valor del Pliego: 25100", 
+            "Nro. Expediente: E20170288200"
+        ], 
+        "title": "LICITACI\u00d3N P\u00daBLICA N\u00ba 18-01-17"
+    }, 
+    "59d5f6c32a748a18225f4f6578d978b5ba594398": {
+        "desc": "ADQUISICI\u00d3N SISTEMA DE VIDEO VIGILANCIA DENTRO DEL PARTIDO DE TANDIL, MA. IGNACIA VELA, GARDEY Y CAMINOS RURALES", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:281,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 16/02/2017", 
+            "Hora de Apertura: 10:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 5100", 
+            "Nro. Expediente: E20161647400"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA N\u00ba 05-01-17"
+    }, 
+    "5fcea15b20a8c5991c4f15fa7750e090138a9c16": {
+        "desc": "ADQUISICION COLECTIVO TIPO SPRINTER PARA LA DIRECCION DE EDUCACION", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:221,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 26/12/2016", 
+            "Hora de Apertura:", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 1121"
+        ], 
+        "title": "LICITACION PUBLICA 24-01-16"
+    }, 
+    "64c3a6e237565bd2bead6433123ac6ae77b4a386": {
+        "desc": "EJECUCI\u00d3N RED DE COLECTORES CLOACALES Y CONEXIONES DOMICILIARIAS - \r\nUrbanizaci\u00f3n B\u00ba Parque La Movediza y El Tropez\u00f3n", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:261,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:261,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 26/01/2017", 
+            "Hora de Apertura: 12:00hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 22070"
+        ], 
+        "title": "LICITACI\u00d3N P\u00daBLICA N\u00ba 04-01-17"
+    }, 
+    "672e2fc73f45229c674ba8c4c740d5a3878454f7": {
+        "desc": "SEGUNDO LLAMADO. PROVISION DE MANO DE OBRA Y MATERIALES PARA LA EJECUCION DE RED DE GAS NATURAL B\u00ba TUNITAS 1 ETAPA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:141,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:141,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 24/10/2016", 
+            "Hora de Apertura: 12:00hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 930"
+        ], 
+        "title": "LICITACION PRIVADA N\u00ba 32-02-16"
+    }, 
+    "6da6fab2d0af250c7f1e1ba640ed9e3a7b11e55a": {
+        "desc": "CONTRATACION DE MANO DE OBRA Y MATERIALES PARA LA EJECUCION DE LA OBRA COLECTOR ALIVIADOR CENTRO", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:27,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:27,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 07/09/2016", 
+            "Hora de Apertura:  10:00 hs.", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 11800"
+        ], 
+        "title": "LICITACION PUBLICA N\u00ba 12-01-16"
+    }, 
+    "7708b7dddfdd5b7fea6c3e5c2990db6b96e18a8d": {
+        "desc": "E.E.S. N\u00ba 1 TERMINACION DE AULAS", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:341,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 20/03/2017", 
+            "Hora de Apertura: 11:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 21200"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA  N\u00ba 09-01-17"
+    }, 
+    "7d2fa38b735f6e63fff96f8c32bf9665167870e0": {
+        "desc": "SERVICIO DE TRANSPORTE DE PASAJEROS PARA COLONIA DE ADULTOS MAYORES. TEMPORADA 2017", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:182,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 13/12/2016", 
+            "Hora de Apertura: 10:00hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego:"
+        ], 
+        "title": "CONCURSO DE PRECIOS N\u00ba 85-03-16"
+    }, 
+    "8a7993449961f30a268f313f528cea4c16212f0f": {
+        "desc": "PAVIMENTACI\u00d3N 23 CUADRAS EN H\u00ba SIMPLE", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:321,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 24/02/2017", 
+            "Hora de Apertura: 09:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 23200"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA 07-01-17"
+    }, 
+    "8f2b415cfdffb573778733a84bc7cb2da4cedfcd": {
+        "desc": "CONCESION Y REVALORIZACION DEL INMUEBLE CORRESPONDIENTE AL BUFFET DEL PARQUE LITICO LA MOVEDIZA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:81,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 28/10/2016", 
+            "Hora de Apertura: 10:00", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 300"
+        ], 
+        "title": "CONCURSO DE PRECIOS N\u00ba 72-03-16"
+    }, 
+    "91018549bf37dcf5384347f050e75ba089a0ae3e": {
+        "desc": "AMPLIACI\u00d3N PROVISION AGUA POTABLE LOCALIDAD DE GARDEY ETAPA I", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:365,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:365,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 03/04/2017", 
+            "Hora de Apertura: 11:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Pta. Alta, Tandil.", 
+            "Valor del Pliego: 1150", 
+            "Nro. Expediente: E20170287000"
+        ], 
+        "title": "LICITACI\u00d3N P\u00daBLICA N\u00ba 12-01-17"
+    }, 
+    "95291b686384f2a3453c796cf868aa985d76cd73": {
+        "desc": "CRUCE CLOACAL RUTA 30 ZONA PIT", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:383,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:383,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 05/04/2017", 
+            "Hora de Apertura: 10:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Pta. Alta, Tandil.", 
+            "Valor del Pliego: 1100", 
+            "Nro. Expediente: E20170287200"
+        ], 
+        "title": "LICITACI\u00d3N P\u00daBLICA N\u00ba 13-01-17"
+    }, 
+    "97306dc15c5b81bb25523151335b26868304fe87": {
+        "desc": "EJECUCI\u00d3N DE LA OBRA RED DE GAS NATURAL B\u00ba LA MOVEDIZA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:162,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:162,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 23/11/2016", 
+            "Hora de Apertura: 09:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 7516", 
+            "Nro. Expediente: 14.373-2016"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA N\u00ba 18-01-16"
+    }, 
+    "9a050d98ec68c4041c8221d4a6f871af25891703": {
+        "desc": "PROVISION DE MANO DE OBRA Y MATERIALES PARA LA EJECUCION DE RED DE GAS NATURAL B\u00ba TUNITAS 1\u00ba ETAPA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:101,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 12/10/2016", 
+            "Hora de Apertura: 11:00", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 930"
+        ], 
+        "title": "LICITACI\u00d3N PRIVADA N\u00ba 32-02-16"
+    }, 
+    "a07a428dc92a45b862be988ab31c3db75a626ff7": {
+        "desc": "PLAN DE REPAVIMENTACION 11 CUADRAS Y ACCESO A CERRO LEONES", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:362,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:362,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 07/04/2017", 
+            "Hora de Apertura: 10:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Pta. Alta,Tandil.", 
+            "Valor del Pliego: 26250", 
+            "Nro. Expediente: E20170287900"
+        ], 
+        "title": "LICITACION P\u00daBLICA N\u00ba 16-01-17"
+    }, 
+    "a195dce52701a3d8c94d518ab83fe2ab72cadddc": {
+        "desc": "EXTENSI\u00d3N RED DE GAS NATURAL EN BARRIO LAS TUNITAS- 1\u00ba ETAPA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:36,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 24/06/2016", 
+            "Hora de Apertura:  11:00 hs.", 
+            "Lugar de Apertura:  Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 935"
+        ], 
+        "title": "LICITACION PUBLICA N\u00ba 03-01-16"
+    }, 
+    "a1d641a42c167533d830fe050e55febbbbca660c": {
+        "desc": "EXTENSION AGUA POTABLE ZONA LA ELENA ETAPA II", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:382,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:382,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 05/04/2017", 
+            "Hora de Apertura: 11:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Pta. Alta, Tandil", 
+            "Valor del Pliego: 1000", 
+            "Nro. Expediente: E20170287600"
+        ], 
+        "title": "LICITACI\u00d3N P\u00daBLICA N\u00ba 14-01-17"
+    }, 
+    "a9c3ebccad7f67629b340ac4f804fc774873c1c6": {
+        "desc": "RED DE ENERGIA ELECTRICA E ILUMINACION DEL NUEVO PREDIO DE VIALIDAD MUNICIPAL", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:361,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 31/03/2017", 
+            "Hora de Apertura: 12:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Pta. Alta,Tandil.", 
+            "Valor del Pliego: 16000"
+        ], 
+        "title": "LICITACION P\u00daBLICA N\u00ba 10-01-17"
+    }, 
+    "aa600b75554eef19f4e4ca0cc5f100a7051f0296": {
+        "desc": "RED DE AGUA, CLOACAS Y DOS POZOS DE AGUA. EMPRENDIMIENTO URBAN\u00cdSTICO PRO.CRE.AR. BARRIO 256 VIVIENDAS", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:41,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:41,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 29/09/2016", 
+            "Hora de Apertura: 11:00", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 4500"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA N\u00ba 13-01-16"
+    }, 
+    "afaa7c01e114fcd3036af2da4e5929625487683b": {
+        "desc": "EJECUCI\u00d3N RED DE COLECTORES CLOACALES Y CONEXIONES DOMICILIARIAS, B\u00ba LA MOVEDIZA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:164,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:164,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 23/11/2016", 
+            "Hora de Apertura: 11:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 3447", 
+            "Nro. Expediente: 14.380-2016"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA N\u00ba 20-01-16"
+    }, 
+    "b0f5e81bc34f8e347416af3ab3e7585d30fa74ae": {
+        "desc": "EXTENSI\u00d3N RED DE GAS NATURAL CA\u00d1ERIA DE NEXO BARRIO CERRO LEONES- 1\u00aa etapa.\r\n2\u00ba LLAMADO", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:301,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:301,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 08/02/2017", 
+            "Hora de Apertura: 10:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 1742"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA N\u00ba 17-01-16"
+    }, 
+    "b3ec5756ede25a92bfeecd0bea37509a2223240e": {
+        "desc": "DESAGUES PLUVIALES, ARENADO DE CALLES Y OBRA DE PAVIMENTO, B\u00ba LA MOVEDIZA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:165,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:165,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 23/11/2016", 
+            "Hora de Apertura: 12:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 21676", 
+            "Nro. Expediente: 14.382-2016"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA N\u00ba 21-01-16"
+    }, 
+    "c2b609d54e85b52c75b23cb726ae8816f26fa93b": {
+        "desc": "SUMINISTRO Y PUESTA EN SERVICIO DE UN SISTEMA INTEGRAL DE SEGURIDAD, ALERTAS Y EMERGENCIA MUNICIPAL ALERTA TANDIL", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:241,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 10/01/2017", 
+            "Hora de Apertura: 11:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 3280"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA N\u00ba 25-01-16"
+    }, 
+    "c93fa5779fc05b92b21b09c90632ba14caab1181": {
+        "desc": "PROVISION Y PUESTA EN MARCHA DE UN SISTEMA REPETIDOR PARA MEJORAR SE\u00d1AL DE TELEFONIA CELULAR EN LA LOCALIDAD DE GARDEY", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:31,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 29/07/2016", 
+            "Hora de Apertura:  11:00 hs.", 
+            "Lugar de Apertura:  Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego:", 
+            "Nro. Expediente: EXPEDIENTE: 09228-2016"
+        ], 
+        "title": "LICITACION PRIVADA N\u00ba28-02-16"
+    }, 
+    "c95090ee9d757b3d59469327ee4205771b1efa35": {
+        "desc": "ADQUISICI\u00d3N DE MEDIDORES Y ACCESORIOS PARA OBRAS SANITARIAS", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:201,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:201,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 20/12/2016", 
+            "Hora de Apertura: 10:00hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 9500"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA N\u00ba 23-01-16"
+    }, 
+    "d7f7c96c1090b507be2b017b91508878259cca46": {
+        "desc": "EXTENSI\u00d3N RED DE GAS EN BARRIO CERRO LEONES - 1\u00ba ETAPA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:34,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 27/07/2016", 
+            "Hora de Apertura:  11:00 hs.", 
+            "Lugar de Apertura:  Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 1565"
+        ], 
+        "title": "LICITACION PUBLICA N\u00ba 08-01-16"
+    }, 
+    "dd3f0200d7bfa3015cd71e843273fac186f685e3": {
+        "desc": "CONTRATACION DE MO Y MATERIALES PARA LA CONSTRUCCION DE LA ESTACION DE BOMBEO Y CA\u00d1ERIA DE IMPULSION CLOACAL B\u00ba VILLA DEL PARQUE Y BRISAS DEL LAGO", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:381,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:381,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 03/04/2017", 
+            "Hora de Apertura: 10:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Pta. Alta,Tandil", 
+            "Valor del Pliego: 3400", 
+            "Nro. Expediente: E20170286800"
+        ], 
+        "title": "LICITACI\u00d3N P\u00daBLICA N\u00ba 11-01-17"
+    }, 
+    "e355be3c822ea3b20723058e82dfbdeffdccc277": {
+        "desc": "EJECUCI\u00d3N RED DE AGUA POTABLE Y CONEXIONES DOMICILIARIAS B\u00ba LA MOVEDIZA", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:163,PLIEGO", 
+            "Descargar el Plano: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:163,PLANO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 23/11/2016", 
+            "Hora de Apertura: 10:00 hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 2327", 
+            "Nro. Expediente: 14.378-2016"
+        ], 
+        "title": "LICITACI\u00d3N PUBLICA N\u00ba 19-01-16"
+    }, 
+    "f1cd5fa92936b390a1cf9ffc27198255d6de1a8d": {
+        "desc": "SERVICIO DE TRANSPORTE DE PASAJEROS PARA COLONIA DE VACACIONES MUNICIPAL. TEMPORADA 2017", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:181,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 13/12/2016", 
+            "Hora de Apertura: 12:00hs", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 1625"
+        ], 
+        "title": "LICITACION PUBLICA N\u00ba 22-01-16"
+    }, 
+    "f47b09ed0aec3d3135bf6a7b5077fa7e502543d3": {
+        "desc": "ADQUISICION MATERIALES PARA RED DE GAS NATURAL CERRO LEONES", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:121,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 20/10/2016", 
+            "Hora de Apertura:", 
+            "Lugar de Apertura: Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego:"
+        ], 
+        "title": "LICITACION PRIVADA N\u00ba 34-02-16"
+    }, 
+    "f4ba5d8b588c9fc1fa920a627b6ff75e640e808a": {
+        "desc": "PAVIMENTACION ACCESOS BARRIO LA MOVEDIZA Y EL TROPEZON 18 CUADRAS", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:38,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 24/06/2016", 
+            "Hora de Apertura:  12:00 hs.", 
+            "Lugar de Apertura:  Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego: 14600"
+        ], 
+        "title": "LICITACION PUBLICA N\u00ba 05-01-16"
+    }, 
+    "f7f01dd38effee14c7a61083962f803a65ce5794": {
+        "desc": "INSTALACION DE 44 LUMINARIAS EN LA LOCALIDAD DE GARDEY", 
+        "download": [
+            "Descargar el Pliego: http://www.autogestion.tandil.gov.ar/apexf?p=102:4:402678089150::NO:4:P4_ARCHIVO_ID,P4_DOWNLOAD_PLIEGO_FILENAME:30,PLIEGO"
+        ], 
+        "misc": [
+            "Fecha de Apertura 29/07/2016", 
+            "Hora de Apertura:  09:00 hs.", 
+            "Lugar de Apertura:  Direcci\u00f3n de Compras, Belgrano 417, Planta Alta, Tandil.", 
+            "Valor del Pliego:", 
+            "Nro. Expediente: EXPEDIENTE: 09293-2016"
+        ], 
+        "title": "LICITACION PRIVADA N\u00ba29-02-16"
+    }
+}

@@ -1,0 +1,970 @@
+{
+    "CONCURSO DE PRECIOS 10": {
+        "apertura": "03/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1029&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1029&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1029&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1029&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1029&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 219100"
+    }, 
+    "CONCURSO DE PRECIOS 11": {
+        "apertura": "06/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,396&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,396&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,396&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,396&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,396&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 202400"
+    }, 
+    "CONCURSO DE PRECIOS 12": {
+        "apertura": "06/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,412&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,412&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,412&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,412&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,412&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 208350"
+    }, 
+    "CONCURSO DE PRECIOS 13": {
+        "apertura": "07/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,415&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,415&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,415&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,415&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,415&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 159051.46"
+    }, 
+    "CONCURSO DE PRECIOS 14": {
+        "apertura": "15/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,547&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,547&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,547&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,547&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,547&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 273902.3"
+    }, 
+    "CONCURSO DE PRECIOS 1434": {
+        "apertura": "17/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1444&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1444&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1444&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1444&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1444&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 75812"
+    }, 
+    "CONCURSO DE PRECIOS 15": {
+        "apertura": "15/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,552&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,552&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,552&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,552&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,552&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 303600.05"
+    }, 
+    "CONCURSO DE PRECIOS 16": {
+        "apertura": "14/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,573&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,573&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,573&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,573&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,573&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 93300"
+    }, 
+    "CONCURSO DE PRECIOS 17": {
+        "apertura": "14/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,574&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,574&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,574&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,574&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,574&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 162142"
+    }, 
+    "CONCURSO DE PRECIOS 18": {
+        "apertura": "20/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,585&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,585&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,585&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,585&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,585&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 153948.8"
+    }, 
+    "CONCURSO DE PRECIOS 19": {
+        "apertura": "10/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,622&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,622&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,622&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,622&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,622&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 108300"
+    }, 
+    "CONCURSO DE PRECIOS 20": {
+        "apertura": "17/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,627&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,627&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,627&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,627&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,627&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 137000"
+    }, 
+    "CONCURSO DE PRECIOS 21": {
+        "apertura": "20/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,629&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,629&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,629&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,629&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,629&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 150000"
+    }, 
+    "CONCURSO DE PRECIOS 22": {
+        "apertura": "17/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,636&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,636&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,636&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,636&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,636&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 144480"
+    }, 
+    "CONCURSO DE PRECIOS 23": {
+        "apertura": "17/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,653&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,653&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,653&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,653&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,653&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 153370"
+    }, 
+    "CONCURSO DE PRECIOS 2358": {
+        "apertura": "24/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,889&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,889&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,889&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,889&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,889&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 194906.8"
+    }, 
+    "CONCURSO DE PRECIOS 24": {
+        "apertura": "17/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,656&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,656&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,656&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,656&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,656&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 186469"
+    }, 
+    "CONCURSO DE PRECIOS 25": {
+        "apertura": "20/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,657&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,657&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,657&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,657&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,657&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 93500"
+    }, 
+    "CONCURSO DE PRECIOS 26": {
+        "apertura": "23/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,715&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,715&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,715&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,715&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,715&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 69327.5"
+    }, 
+    "CONCURSO DE PRECIOS 27": {
+        "apertura": "01/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,717&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,717&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,717&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,717&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,717&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 128046.19"
+    }, 
+    "CONCURSO DE PRECIOS 28": {
+        "apertura": "23/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,786&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,786&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,786&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,786&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,786&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 77080"
+    }, 
+    "CONCURSO DE PRECIOS 29": {
+        "apertura": "03/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,799&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,799&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,799&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,799&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,799&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 176640"
+    }, 
+    "CONCURSO DE PRECIOS 31": {
+        "apertura": "03/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,890&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,890&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,890&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,890&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,890&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 204000"
+    }, 
+    "CONCURSO DE PRECIOS 32": {
+        "apertura": "09/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,891&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,891&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,891&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,891&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,891&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 98500"
+    }, 
+    "CONCURSO DE PRECIOS 33": {
+        "apertura": "16/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,893&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,893&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,893&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,893&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,893&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 228718"
+    }, 
+    "CONCURSO DE PRECIOS 34": {
+        "apertura": "09/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,939&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,939&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,939&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,939&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,939&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 71300.21"
+    }, 
+    "CONCURSO DE PRECIOS 35": {
+        "apertura": "15/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,986&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,986&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,986&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,986&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,986&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 94600"
+    }, 
+    "CONCURSO DE PRECIOS 36": {
+        "apertura": "09/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1013&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1013&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1013&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1013&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1013&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 81340"
+    }, 
+    "CONCURSO DE PRECIOS 37": {
+        "apertura": "07/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1014&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1014&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1014&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1014&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1014&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 73700"
+    }, 
+    "CONCURSO DE PRECIOS 38": {
+        "apertura": "17/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1036&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1036&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1036&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1036&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1036&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 85910"
+    }, 
+    "CONCURSO DE PRECIOS 40": {
+        "apertura": "23/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1172&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1172&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1172&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1172&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1172&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 88800"
+    }, 
+    "CONCURSO DE PRECIOS 41": {
+        "apertura": "23/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1173&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1173&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1173&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1173&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1173&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 185295"
+    }, 
+    "CONCURSO DE PRECIOS 42": {
+        "apertura": "30/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1192&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1192&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1192&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1192&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1192&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 310686"
+    }, 
+    "CONCURSO DE PRECIOS 43": {
+        "apertura": "28/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1225&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1225&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1225&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1225&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1225&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 334820"
+    }, 
+    "CONCURSO DE PRECIOS 44": {
+        "apertura": "30/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1311&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1311&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1311&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1311&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1311&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 330000"
+    }, 
+    "CONCURSO DE PRECIOS 45": {
+        "apertura": "06/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1330&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1330&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1330&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1330&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1330&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 160000"
+    }, 
+    "CONCURSO DE PRECIOS 46": {
+        "apertura": "11/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1332&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1332&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1332&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1332&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1332&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 81136.32"
+    }, 
+    "CONCURSO DE PRECIOS 47": {
+        "apertura": "06/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1348&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1348&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1348&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1348&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1348&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 143098.22"
+    }, 
+    "CONCURSO DE PRECIOS 49": {
+        "apertura": "11/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1366&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1366&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1366&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1366&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1366&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 290000"
+    }, 
+    "CONCURSO DE PRECIOS 50": {
+        "apertura": "03/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1367&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1367&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1367&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1367&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1367&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 77422"
+    }, 
+    "CONCURSO DE PRECIOS 51": {
+        "apertura": "12/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1383&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1383&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1383&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1383&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1383&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 92934"
+    }, 
+    "CONCURSO DE PRECIOS 53": {
+        "apertura": "18/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1461&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1461&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1461&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1461&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1461&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 126750"
+    }, 
+    "CONCURSO DE PRECIOS 54": {
+        "apertura": "18/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1465&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1465&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1465&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1465&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1465&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 135214.26"
+    }, 
+    "CONCURSO DE PRECIOS 55": {
+        "apertura": "20/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1605&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1605&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1605&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1605&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1605&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 160000"
+    }, 
+    "CONCURSO DE PRECIOS 56": {
+        "apertura": "20/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1684&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1684&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1684&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1684&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1684&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 135460"
+    }, 
+    "CONCURSO DE PRECIOS 57": {
+        "apertura": "24/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1728&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1728&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1728&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1728&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1728&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 90000"
+    }, 
+    "CONCURSO DE PRECIOS 58": {
+        "apertura": "27/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1763&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1763&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1763&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1763&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1763&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 87547"
+    }, 
+    "CONCURSO DE PRECIOS 59": {
+        "apertura": "27/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1764&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1764&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1764&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1764&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1764&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 135000"
+    }, 
+    "CONCURSO DE PRECIOS 6": {
+        "apertura": "27/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,179&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,179&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,179&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,179&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,179&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 211428"
+    }, 
+    "CONCURSO DE PRECIOS 60": {
+        "apertura": "25/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1765&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1765&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1765&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1765&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1765&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 213000"
+    }, 
+    "CONCURSO DE PRECIOS 7": {
+        "apertura": "30/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,181&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,181&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,181&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,181&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,181&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 356500"
+    }, 
+    "CONCURSO DE PRECIOS 8": {
+        "apertura": "31/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,189&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,189&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,189&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,189&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,189&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 82500"
+    }, 
+    "LICITACION PRIVADA 10": {
+        "apertura": "02/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,282&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,282&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,282&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,282&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,282&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 678091.92"
+    }, 
+    "LICITACION PRIVADA 11": {
+        "apertura": "03/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,334&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,334&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,334&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,334&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,334&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 416850"
+    }, 
+    "LICITACION PRIVADA 12": {
+        "apertura": "03/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,393&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,393&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,393&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,393&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,393&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 495088"
+    }, 
+    "LICITACION PRIVADA 13": {
+        "apertura": "03/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,395&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,395&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,395&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,395&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,395&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 911820"
+    }, 
+    "LICITACION PRIVADA 14": {
+        "apertura": "07/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,408&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,408&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,408&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,408&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,408&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 450000"
+    }, 
+    "LICITACION PRIVADA 15": {
+        "apertura": "16/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,569&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,569&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,569&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,569&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,569&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 355000"
+    }, 
+    "LICITACION PRIVADA 16": {
+        "apertura": "10/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,586&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,586&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,586&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,586&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,586&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 932800"
+    }, 
+    "LICITACION PRIVADA 17": {
+        "apertura": "20/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,661&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,661&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,661&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,661&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,661&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 520000"
+    }, 
+    "LICITACION PRIVADA 19": {
+        "apertura": "21/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1204&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1204&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1204&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1204&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1204&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 700000"
+    }, 
+    "LICITACION PRIVADA 2": {
+        "apertura": "30/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,498&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,498&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,498&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,498&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,498&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 4253100"
+    }, 
+    "LICITACION PRIVADA 20": {
+        "apertura": "22/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1080&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1080&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1080&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1080&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1080&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 426000"
+    }, 
+    "LICITACION PRIVADA 21": {
+        "apertura": "22/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1115&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1115&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1115&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1115&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1115&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 540000"
+    }, 
+    "LICITACION PRIVADA 22": {
+        "apertura": "17/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1118&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1118&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1118&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1118&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1118&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 542139"
+    }, 
+    "LICITACION PRIVADA 23": {
+        "apertura": "27/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1171&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1171&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1171&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1171&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1171&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 541400"
+    }, 
+    "LICITACION PRIVADA 24": {
+        "apertura": "17/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1349&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1349&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1349&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1349&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1349&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 530600"
+    }, 
+    "LICITACION PRIVADA 25": {
+        "apertura": "30/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1350&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1350&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1350&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1350&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1350&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 450000"
+    }, 
+    "LICITACION PRIVADA 26": {
+        "apertura": "19/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1499&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1499&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1499&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1499&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1499&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 1016400"
+    }, 
+    "LICITACION PRIVADA 27": {
+        "apertura": "19/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1558&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1558&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1558&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1558&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1558&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 422990"
+    }, 
+    "LICITACION PRIVADA 3": {
+        "apertura": "27/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,143&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,143&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,143&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,143&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,143&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 529200"
+    }, 
+    "LICITACION PRIVADA 4": {
+        "apertura": "30/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,182&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,182&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,182&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,182&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,182&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 572000"
+    }, 
+    "LICITACION PRIVADA 5": {
+        "apertura": "30/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,186&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,186&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,186&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,186&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,186&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 192280"
+    }, 
+    "LICITACION PRIVADA 6": {
+        "apertura": "31/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,204&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,204&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,204&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,204&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,204&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 975552"
+    }, 
+    "LICITACION PRIVADA 7": {
+        "apertura": "01/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,205&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,205&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,205&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,205&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,205&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 502500"
+    }, 
+    "LICITACION PRIVADA 8": {
+        "apertura": "27/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,246&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,246&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,246&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,246&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,246&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 421366"
+    }, 
+    "LICITACION PRIVADA 9": {
+        "apertura": "01/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,277&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,277&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,277&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,277&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,277&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 585175"
+    }, 
+    "LICITACION PUBLICA 1": {
+        "apertura": "27/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,421&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,421&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,421&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,421&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,421&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 20137072"
+    }, 
+    "LICITACION PUBLICA 10": {
+        "apertura": "31/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,933&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,933&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,933&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,933&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,933&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 1583652"
+    }, 
+    "LICITACION PUBLICA 17": {
+        "apertura": "08/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2016,5232&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2016,5232&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2016,5232&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2016,5232&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2016,5232&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 4650"
+    }, 
+    "LICITACION PUBLICA 19": {
+        "apertura": "21/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1831&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1831&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1831&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1831&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1831&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 3318263.2"
+    }, 
+    "LICITACION PUBLICA 24": {
+        "apertura": "02/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,584&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,584&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,584&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,584&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,584&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 1223753"
+    }, 
+    "LICITACION PUBLICA 25": {
+        "apertura": "25/04/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,1846&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,1846&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,1846&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,1846&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,1846&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 5600000"
+    }, 
+    "LICITACION PUBLICA 26": {
+        "apertura": "20/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,888&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,888&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,888&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,888&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,888&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 3000000"
+    }, 
+    "LICITACION PUBLICA 3": {
+        "apertura": "27/01/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,422&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,422&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,422&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,422&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,422&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 9260200"
+    }, 
+    "LICITACION PUBLICA 6": {
+        "apertura": "24/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,507&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,507&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,507&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,507&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,507&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 1500000"
+    }, 
+    "LICITACION PUBLICA 7": {
+        "apertura": "24/02/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,506&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,506&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,506&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,506&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,506&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 23223954.16"
+    }, 
+    "LICITACION PUBLICA 9": {
+        "apertura": "20/03/2017", 
+        "download": [
+            "Items: http://www.autogestion.tandil.gov.ar/apexf?p=102:28:14812358965922::NO:28:P28_ANIO,P28_NRO:2017,798&p_dialog_cs=neVHP2m2IY_obldLXKpIGoUlWVA", 
+            "Invitados: http://www.autogestion.tandil.gov.ar/apexf?p=102:30:14812358965922::NO:30:P30_ANIO,P30_NRO:2017,798&p_dialog_cs=zwO48IRN2_FP_1WxKpilCLrfWeo", 
+            "Cotizaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:31:14812358965922::NO:31:P31_ANIO,P31_NRO:2017,798&p_dialog_cs=9b4YAdXaU-IUhnXC2kY5sA6cdhc", 
+            "Adjudicaciones: http://www.autogestion.tandil.gov.ar/apexf?p=102:32:14812358965922::NO:32:P32_ANIO,P32_NRO:2017,798&p_dialog_cs=qO2BQCFpHR6m2U-R5kB3G6pySIk", 
+            "Orden/es de Compra: http://www.autogestion.tandil.gov.ar/apexf?p=102:33:14812358965922::NO:33:P33_ANIO,P33_NRO:2017,798&p_dialog_cs=0rBEvdqrS8ToT6p7YpYwKGt0zR8"
+        ], 
+        "presupuesto": "$ 2117361.97"
+    }
+}
