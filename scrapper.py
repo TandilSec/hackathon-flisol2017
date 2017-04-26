@@ -64,6 +64,7 @@ HEADERS = {
     'Host': 'www.autogestion.tandil.gov.ar',
 }
 
+
 class Scrapper(object):
     """docstring for Scrapper"""
     def __init__(self, cookie):
@@ -98,7 +99,7 @@ class Scrapper(object):
 
         # Check why this retrieved cookie does not work.
         # r = requests.get("%s%s" % (URL_REQ_A, URL_CONTEXT[self.context]),
-        # 	headers=HEADERS)
+        #                  headers=HEADERS)
         # self.cookie: r.headers['Set-Cookie'].split(';')[0],
 
         self.prepareData()
@@ -111,8 +112,7 @@ class Scrapper(object):
 
     def getTitle(self, raw):
         """Returns current bidding title as string"""
-        return raw.find('h3',
-            attrs={'class':'t-SearchResults-title'}).text.strip()
+        return raw.find('h3', attrs={'class': 't-SearchResults-title'}).text.strip()
 
     def getMiscs(self, raw):
         """Returns current bidding additional info as list"""
@@ -128,7 +128,7 @@ class Scrapper(object):
         """Iterates through HTML chunks finding the information needed for
         each context. Stores it as a dict in self.results"""
         licits_raw = self.parsed_html.findAll(HTML_CONTEXT[self.context],
-            attrs={'class' : 't-SearchResults-item'})
+                                              attrs={'class': 't-SearchResults-item'})
 
         self.results = {}
         for licit_raw in licits_raw:
@@ -151,9 +151,9 @@ class Scrapper(object):
                     dls.append("%s: %s%s" % (link_title, URL_DL, link))
 
                 self.results[title] = {
-                'apertura' : apertura,
-                'presupuesto' : presupuesto,
-                'download' : dls
+                    'apertura': apertura,
+                    'presupuesto': presupuesto,
+                    'download': dls
                 }
 
             elif self.context == PLIEGOS:
@@ -174,9 +174,9 @@ class Scrapper(object):
                 shaid = sha.new((title+desc).encode('utf-8')).hexdigest()
                 self.results[shaid] = {
                     'title': title,
-                    'desc' : desc,
-                    'misc' : miscs,
-                    'download' : dls
+                    'desc': desc,
+                    'misc': miscs,
+                    'download': dls
                 }
 
     def scrap(self):
@@ -234,7 +234,7 @@ class Scrapper(object):
     def toFile(self, format="json"):
         """Prints results to file using parametrized format"""
         if format == "json":
-            with open('data_%s.txt' % self.context, 'w') as outfile:
+            with open('data_%s.json' % self.context, 'w') as outfile:
                 json.dump(self.results, outfile, sort_keys=True, indent=4)
             pass
         elif format == "csv":
