@@ -25,7 +25,6 @@
 
 
 # TODO:
-# - Solve cookie issue: can't get dynamic working cookie, must be set manually.
 # - Parse 'seguimientos' inner objects info following links.
 # - Lot of hardcoded info that can be constants.
 
@@ -42,23 +41,21 @@ URL_BASE = "http://www.autogestion.tandil.gov.ar/apex"
 URL_DL = URL_BASE
 URL_REQ_A = "%s/f?p=" % URL_BASE 
 URL_REQ_B = "%s/wwv_flow.show" % URL_BASE
-COOKIE = "ORA_WWV_APP_102=ORA_WWV-auDRE4cHI9nwil2vCJBXM9D2"
 PLIEGOS = "pliegos"
 SEGUIMIENTOS = "seguimientos"
 URL_CONTEXT = {
-    SEGUIMIENTOS : "102:27",
-    PLIEGOS : "102:24"
+    SEGUIMIENTOS: "102:27",
+    PLIEGOS: "102:24"
 }
 HTML_CONTEXT = {
-    SEGUIMIENTOS : "div",
-    PLIEGOS : "li"
+    SEGUIMIENTOS: "div",
+    PLIEGOS: "li"
 }
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:53.0) \
     Gecko/20100101 Firefox/53.0',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
     'Accept-Language': 'en-US,en;q=0.5',
-    'Cookie': '_ga=GA1.3.770007120.1492904174',
     'Connection': 'keep-alive',
     'Upgrade-Insecure-Requests': '1',
     'Host': 'www.autogestion.tandil.gov.ar',
@@ -66,11 +63,11 @@ HEADERS = {
 
 
 class Scrapper(object):
-    """docstring for Scrapper"""
-    def __init__(self, cookie):
+    """Scrapper"""
+    def __init__(self):
         super(Scrapper, self).__init__()
-        self.cookie = cookie
         self.context = None
+        self.session = requests.Session()
 
     def setContextLimit(self, min_row, max_rows):
         """Sets the offset and limit for result rows"""
@@ -97,17 +94,16 @@ class Scrapper(object):
         """Prepares all the necessary information in order to
         fulfill all the requests accordingly"""
 
-        # Check why this retrieved cookie does not work.
-        # r = requests.get("%s%s" % (URL_REQ_A, URL_CONTEXT[self.context]),
-        #                  headers=HEADERS)
-        # self.cookie: r.headers['Set-Cookie'].split(';')[0],
+        # Make a first request to establish cookie within the session
+        self.session.get("%s%s" % (URL_REQ_A, URL_CONTEXT[self.context]), headers=HEADERS)
 
         self.prepareData()
 
     def grabData(self):
         """Sets the content of the POST response with custom headers & data,
         in self.parsed_html for further use"""
-        r = requests.post(URL_REQ_B, self.data, headers=self.headers)
+        r = self.session.post(URL_REQ_B, self.data, headers=self.headers)
+        print r.content
         self.parsed_html = BeautifulSoup(r.content, 'lxml')
 
     def getTitle(self, raw):
@@ -226,7 +222,6 @@ class Scrapper(object):
             'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
             'X-Requested-With': 'XMLHttpRequest',
             'Content-Length': str(len(self.data)),
-            'Cookie': self.cookie,
             'Connection': 'keep-alive',
             'Host': 'www.autogestion.tandil.gov.ar'
         }
@@ -242,8 +237,8 @@ class Scrapper(object):
 
 
 if __name__ == '__main__':
-    # Initializing the scrapper with an example cookie
-    s = Scrapper(COOKIE)
+    # Initializing the scrapper
+    s = Scrapper()
 
     # Setting up Seguimientos de Licitaciones with first 100 rows.
     s.setContextSeguimientos(1, 100)
