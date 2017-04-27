@@ -103,7 +103,6 @@ class Scrapper(object):
         """Sets the content of the POST response with custom headers & data,
         in self.parsed_html for further use"""
         r = self.session.post(URL_REQ_B, self.data, headers=self.headers)
-        print r.content
         self.parsed_html = BeautifulSoup(r.content, 'lxml')
 
     def getTitle(self, raw):
