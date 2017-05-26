@@ -18,6 +18,11 @@ Los objetivos que se plantearon durante el hackathon fueron:
 * Analizar las relaciones entre los datos e identificar posibles visualizaciónes o agrupación
   de datos que permitan mejorar el entendimiento sobre las licitaciones y compras realizadas
   por el Municipio de Tandil.
+  
+* Identificar oportunidades de mejora con respecto a la información publicada, su formato,
+  relaciones, etc.
+
+* Aprender y compartir un rato colaborando en un proyecto conjunto. 
 
 
 ## Fuente de datos
