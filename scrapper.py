@@ -30,12 +30,13 @@
 
 import requests
 import json
-import sha
+import hashlib
 
 try: 
     from BeautifulSoup import BeautifulSoup
 except ImportError:
     from bs4 import BeautifulSoup
+
 
 URL_BASE = "http://www.autogestion.tandil.gov.ar/apex"
 URL_DL = URL_BASE
@@ -112,12 +113,12 @@ class Scrapper(object):
     def getMiscs(self, raw):
         """Returns current bidding additional info as list"""
         return raw.findAll('span',
-            attrs={'class' : 't-SearchResults-misc'})
+            attrs={'class': 't-SearchResults-misc'})
 
     def getDesc(self, raw):
         """Returns current bidding description as string"""
         return raw.find('p',
-            attrs={'class' : 't-SearchResults-desc'}).text.strip()
+            attrs={'class': 't-SearchResults-desc'}).text.strip()
 
     def processData(self):
         """Iterates through HTML chunks finding the information needed for
@@ -166,7 +167,9 @@ class Scrapper(object):
                         dlstr[dlstr.index("f?p"):dlstr.index("\">")]))
 
                 # Since each entry does not have an ID, we make one.
-                shaid = sha.new((title+desc).encode('utf-8')).hexdigest()
+                sha1 = hashlib.sha1()
+                sha1.update((title + desc).encode('utf-8'))
+                shaid = sha1.hexdigest()
                 self.results[shaid] = {
                     'title': title,
                     'desc': desc,
