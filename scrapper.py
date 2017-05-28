@@ -133,19 +133,36 @@ class Scrapper(object):
         return parsers[link_title](data)
 
     def getItems(self, data):
-        return {}
+        return self.getKeyValues(data, 5)
 
     def getInvitados(self, data):
-        return {}
+        values = data.findAll("dd", attrs={"class": "t-AVPList-value"})
+        return map(lambda x: x.text.strip(), values)
 
     def getCotizaciones(self, data):
-        return {}
+        return self.getKeyValues(data, 4)
 
     def getAdjudicaciones(self, data):
-        return {}
+        return self.getKeyValues(data, 7)
 
     def getOrdenesDeCompra(self, data):
-        return {}
+        return self.getKeyValues(data, 7)
+
+    def getKeyValues(self, data, nro):
+        results = []
+        keys = data.findAll("dt", attrs={"class": "t-AVPList-label"})
+        values = data.findAll("dd", attrs={"class": "t-AVPList-value"})
+        item = {}
+        i = j = 0
+        for key in keys:
+            item[key.text.strip()] = values[j].text.strip()
+            i += 1
+            j += 1
+            if i == nro:
+                results.append(item.copy())
+                item = {}
+                i = 0
+        return results
 
     def processData(self):
         """Iterates through HTML chunks finding the information needed for
@@ -158,6 +175,7 @@ class Scrapper(object):
             dls = {}
 
             title = self.getTitle(licit_raw)
+            print("[*] Parseando item '%s'" % title)
 
             if self.context == SEGUIMIENTOS:
                 results = {}
@@ -279,13 +297,13 @@ if __name__ == '__main__':
 
     # Setting up Pliegos de Licitaciones with first 100 rows.
     print("[*] Scrapeando pliegos")
-    s.setContextPliegos(1, 10)
+    s.setContextPliegos(1, 100)
     s.scrap()
     s.toFile()
 
     # Setting up Seguimientos de Licitaciones with first 100 rows.
     print("[*] Scrapeando seguimientos")
-    s.setContextSeguimientos(1, 10)
+    s.setContextSeguimientos(1, 100)
     s.scrap()
     s.toFile()
 
