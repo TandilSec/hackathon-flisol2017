@@ -121,23 +121,30 @@ class Scrapper(object):
             attrs={'class': 't-SearchResults-desc'}).text.strip()
 
     def getDownload(self, link_title, link):
-        results = {}
-        if link_title == "Items":
-            results = {}
+        r = self.session.get(link)
+        data = BeautifulSoup(r.content, 'lxml')
+        parsers = {
+            "Items": self.getItems,
+            "Cotizaciones": self.getCotizaciones,
+            "Adjudicaciones": self.getAdjudicaciones,
+            "Orden/es de Compra": self.getOrdenesDeCompra,
+        }
+        return parsers[link_title](data)
 
-        elif link_title == "Invitados":
-            results = {}
+    def getItems(self, data):
+        return {}
 
-        elif link_title == "Cotizaciones":
-            results = {}
+    def getInvitados(self, data):
+        return {}
 
-        elif link_title == "Adjudicaciones":
-            results = {}
+    def getCotizaciones(self, data):
+        return {}
 
-        elif link_title == "Orden/es de Compra":
-            results = {}
+    def getAdjudicaciones(self, data):
+        return {}
 
-        return results
+    def getOrdenesDeCompra(self, data):
+        return {}
 
     def processData(self):
         """Iterates through HTML chunks finding the information needed for
