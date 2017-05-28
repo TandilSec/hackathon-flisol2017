@@ -129,7 +129,6 @@ class Scrapper(object):
         self.results = {}
         for licit_raw in licits_raw:
             dls = {}
-            miscs = []
 
             title = self.getTitle(licit_raw)
 
@@ -156,29 +155,34 @@ class Scrapper(object):
                 }
 
             elif self.context == PLIEGOS:
+                results = {}
                 desc = self.getDesc(licit_raw)
 
                 for misc in self.getMiscs(licit_raw):
                     text = misc.text.strip()
                     if text == "" or "Descargar el" in text:
                         continue
-                    miscs.append(text)
+
+                    if ":" in text:
+                        key, value = text.split(":", 1)
+                        results[key] = value.strip()
+                    elif "Fecha de Apertura " in text:
+                        results["fecha_apertura"] = text.split("Fecha de Apertura ")[1]
 
                 for dl in licit_raw.findAll('a'):
                     dlstr = str(dl)
                     dls[dl.text.strip()] = "%s%s" % (URL_DL,
                         dlstr[dlstr.index("f?p"):dlstr.index("\">")])
 
+                results['title'] = title
+                results['descripcion'] = desc
+                results['download'] = dls
+
                 # Since each entry does not have an ID, we make one.
                 sha1 = hashlib.sha1()
                 sha1.update((title + desc).encode('utf-8'))
                 shaid = sha1.hexdigest()
-                self.results[shaid] = {
-                    'title': title,
-                    'desc': desc,
-                    'misc': miscs,
-                    'download': dls
-                }
+                self.results[shaid] = results
 
     def scrap(self):
         """Core of the scrapper. Basically does all the work.
