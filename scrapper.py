@@ -128,7 +128,7 @@ class Scrapper(object):
 
         self.results = {}
         for licit_raw in licits_raw:
-            dls = []
+            dls = {}
             miscs = []
 
             title = self.getTitle(licit_raw)
@@ -139,12 +139,12 @@ class Scrapper(object):
                 presupuesto = miscs[1].text.split(':')[1].strip()
 
                 for i in range(2, len(miscs)):
-                    link =  miscs[i].find('a')
+                    link = miscs[i].find('a')
                     link_title = link.text
                     linkstr = str(link)
                     link = linkstr[linkstr.index("f?p"):linkstr.index("',{")]
                     link = link.replace("\\u0026", "&")
-                    dls.append("%s: %s%s" % (link_title, URL_DL, link))
+                    dls[link_title] = "%s%s" % (URL_DL, link)
 
                 self.results[title] = {
                     'apertura': apertura,
@@ -163,8 +163,8 @@ class Scrapper(object):
 
                 for dl in licit_raw.findAll('a'):
                     dlstr = str(dl)
-                    dls.append("%s: %s%s" % (dl.text.strip(), URL_DL,
-                        dlstr[dlstr.index("f?p"):dlstr.index("\">")]))
+                    dls[dl.text.strip()] = "%s%s" % (URL_DL,
+                        dlstr[dlstr.index("f?p"):dlstr.index("\">")])
 
                 # Since each entry does not have an ID, we make one.
                 sha1 = hashlib.sha1()
@@ -244,13 +244,13 @@ if __name__ == '__main__':
 
     # Setting up Pliegos de Licitaciones with first 100 rows.
     print("[*] Scrapeando pliegos")
-    s.setContextPliegos(1, 100)
+    s.setContextPliegos(1, 10)
     s.scrap()
     s.toFile()
 
     # Setting up Seguimientos de Licitaciones with first 100 rows.
     print("[*] Scrapeando seguimientos")
-    s.setContextSeguimientos(1, 100)
+    s.setContextSeguimientos(1, 10)
     s.scrap()
     s.toFile()
 
