@@ -144,7 +144,7 @@ class Scrapper(object):
                     linkstr = str(link)
                     link = linkstr[linkstr.index("f?p"):linkstr.index("',{")]
                     link = link.replace("\\u0026", "&")
-                    dls[link_title] = "%s%s" % (URL_DL, link)
+                    dls[link_title] = "%s/%s" % (URL_DL, link)
 
                 self.results[title] = {
                     'apertura': apertura,
