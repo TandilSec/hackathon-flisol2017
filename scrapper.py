@@ -120,6 +120,25 @@ class Scrapper(object):
         return raw.find('p',
             attrs={'class': 't-SearchResults-desc'}).text.strip()
 
+    def getDownload(self, link_title, link):
+        results = {}
+        if link_title == "Items":
+            results = {}
+
+        elif link_title == "Invitados":
+            results = {}
+
+        elif link_title == "Cotizaciones":
+            results = {}
+
+        elif link_title == "Adjudicaciones":
+            results = {}
+
+        elif link_title == "Orden/es de Compra":
+            results = {}
+
+        return results
+
     def processData(self):
         """Iterates through HTML chunks finding the information needed for
         each context. Stores it as a dict in self.results"""
@@ -133,6 +152,7 @@ class Scrapper(object):
             title = self.getTitle(licit_raw)
 
             if self.context == SEGUIMIENTOS:
+                results = {}
                 miscs = self.getMiscs(licit_raw)
                 apertura = miscs[0].text.split(':')[1].strip()
                 try:
@@ -140,19 +160,19 @@ class Scrapper(object):
                 except:
                     presupuesto = 0
 
+                results['apertura'] = apertura
+                results['presupuesto'] = presupuesto
+
                 for i in range(2, len(miscs)):
                     link = miscs[i].find('a')
                     link_title = link.text
                     linkstr = str(link)
                     link = linkstr[linkstr.index("f?p"):linkstr.index("',{")]
                     link = link.replace("\\u0026", "&")
-                    dls[link_title] = "%s/%s" % (URL_DL, link)
+                    link = "%s/%s" % (URL_DL, link)
+                    results[link_title] = self.getDownload(link_title, link)
 
-                self.results[title] = {
-                    'apertura': apertura,
-                    'presupuesto': presupuesto,
-                    'download': dls
-                }
+                self.results[title] = results
 
             elif self.context == PLIEGOS:
                 results = {}
