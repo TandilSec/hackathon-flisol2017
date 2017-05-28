@@ -136,7 +136,10 @@ class Scrapper(object):
             if self.context == SEGUIMIENTOS:
                 miscs = self.getMiscs(licit_raw)
                 apertura = miscs[0].text.split(':')[1].strip()
-                presupuesto = miscs[1].text.split(':')[1].strip()
+                try:
+                    presupuesto = float(miscs[1].text.split(':')[1].strip().split("$")[1].strip())
+                except:
+                    presupuesto = 0
 
                 for i in range(2, len(miscs)):
                     link = miscs[i].find('a')
