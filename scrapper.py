@@ -242,12 +242,15 @@ if __name__ == '__main__':
     # Initializing the scrapper
     s = Scrapper()
 
+    # Setting up Pliegos de Licitaciones with first 100 rows.
+    print("[*] Scrapeando pliegos")
+    s.setContextPliegos(1, 100)
+    s.scrap()
+    s.toFile()
+
     # Setting up Seguimientos de Licitaciones with first 100 rows.
+    print("[*] Scrapeando seguimientos")
     s.setContextSeguimientos(1, 100)
     s.scrap()
     s.toFile()
 
-    # Setting up Pliegos de Licitaciones with first 100 rows.
-    s.setContextPliegos(1, 100)
-    s.scrap()
-    s.toFile()
