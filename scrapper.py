@@ -125,6 +125,7 @@ class Scrapper(object):
         data = BeautifulSoup(r.content, 'lxml')
         parsers = {
             "Items": self.getItems,
+            "Invitados": self.getInvitados,
             "Cotizaciones": self.getCotizaciones,
             "Adjudicaciones": self.getAdjudicaciones,
             "Orden/es de Compra": self.getOrdenesDeCompra,
