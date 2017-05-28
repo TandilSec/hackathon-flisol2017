@@ -297,13 +297,13 @@ if __name__ == '__main__':
 
     # Setting up Pliegos de Licitaciones with first 100 rows.
     print("[*] Scrapeando pliegos")
-    s.setContextPliegos(1, 100)
+    s.setContextPliegos(1, 50)
     s.scrap()
     s.toFile()
 
     # Setting up Seguimientos de Licitaciones with first 100 rows.
     print("[*] Scrapeando seguimientos")
-    s.setContextSeguimientos(1, 100)
+    s.setContextSeguimientos(1, 940)
     s.scrap()
     s.toFile()
 
