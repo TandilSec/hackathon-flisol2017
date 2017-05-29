@@ -284,7 +284,7 @@ class Scrapper(object):
     def toFile(self, format="json"):
         """Prints results to file using parametrized format"""
         if format == "json":
-            with open('data_%s.json' % self.context, 'w') as outfile:
+            with open('output/data_%s.json' % self.context, 'w') as outfile:
                 json.dump(self.results, outfile, sort_keys=True, indent=4)
             pass
         elif format == "csv":
