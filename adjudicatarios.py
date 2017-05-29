@@ -27,7 +27,7 @@ import json
 
 if __name__ == '__main__':
     # Abrir el archivo
-    with open("data_seguimientos.json", "r") as f:
+    with open("output/data_seguimientos.json", "r") as f:
         seguimientos = json.load(f)
 
     adjudicatarios = {}
@@ -49,4 +49,4 @@ if __name__ == '__main__':
     adjudicatarios = [v for x,v in adjudicatarios.items()]
 
     with open("adjudicatarios.json", "w") as f:
-        json.dump(adjudicatarios, f)
+        json.dump(adjudicatarios, f, sort_keys=True, indent=4)
