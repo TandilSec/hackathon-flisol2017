@@ -46,8 +46,15 @@ Las librerias necesarias se pueden instalar usando `pip`:
     pip install -r requirements.txt
 
 
+Es recomendado instalar las dependencias y correr el proyecto en un `virtualenv` para evitar conflictos con
+los paquetes `python` del sistema. Un tutorial se puede encontrar en el siguiente [link](http://www.pythondiario.com/2016/04/instalar-y-utilizar-virtualenv-virtual.html).
+
 ## Análisis
 
 ### Adjudicatarios
 
 * [Distribución de adjudicatarios segun monto y costo total de adjudicaciones](https://cdn.rawgit.com/TandilSec/hackathon-flisol2017/abf80741/adjudicatarios.html).
+
+### Ideas
+
+Cargamos ideas para mas visualizaciones y analisis del set de datos en los [issues](https://github.com/TandilSec/hackathon-flisol2017/issues) del repositorio.
