@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <style>
-    body {
+body {
     font-family:"Helvetica Neue";
     color: #686765;
 }
@@ -30,40 +30,39 @@ text {
     cursor: pointer;
 }
 </style>
-<h3>Adjudicatarios</h3>
+<h1>Hackaton de Datos Abiertos - FliSol Tandil 2017</h1>
+<h3>Distribución de adjudicatarios segun monto y costo total de adjudicaciones</h3>
+</p>
+<div id="adjudicatarios-scatter"></div>
 
 </p>
-<div id="scatter-load"></div>
-
+Visualizacion basada en https://jsfiddle.net/eamonnmag/Q567s/
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <script>
-var adjudicatarios = [{"razon_social": "GOMERIAS NEUMEN SA", "costo_total": 168109.92, "cantidad": 40.0}, {"razon_social": "GIANOLLI JOSE ALBERTO", "costo_total": 2212200.0, "cantidad": 11.0}, {"razon_social": "EL NUEVO CORRALON S.R.L.", "costo_total": 47840.0, "cantidad": 800.0}, {"razon_social": "TENUE EMPRESA CONSTRUCTORA S.A.", "costo_total": 19413037.06, "cantidad": 4.0}, {"razon_social": "MENACHO VARGAS JOSE ARTURO", "costo_total": 338161.72, "cantidad": 1.0}, {"razon_social": "NICOLETTA DOMINGO ALBERTO", "costo_total": 135000.0, "cantidad": 300.0}, {"razon_social": "PRETAN ARGENTINA S.A.", "costo_total": 194345.4, "cantidad": 1.0}, {"razon_social": "SAAVEDRA  GISELA PAOLA", "costo_total": 2735.7000000000003, "cantidad": 23.0}, {"razon_social": "BOZZI GUSTAVO LEONARDO", "costo_total": 409920.0, "cantidad": 40000.0}, {"razon_social": "PAEZ GASTON MARCIAL", "costo_total": 36100.0, "cantidad": 82.0}, {"razon_social": "COFIL S.R.L", "costo_total": 345000.0, "cantidad": 120000.0}, {"razon_social": "COMASA S.A.", "costo_total": 3758.3999999999996, "cantidad": 24.0}, {"razon_social": "L\u00b4EFFORT S.A.", "costo_total": 112500.0, "cantidad": 1.0}, {"razon_social": "ALONZO, REYNALDO WILFRIDO", "costo_total": 129402.0, "cantidad": 1.0}, {"razon_social": "UZCUDUN S.A.", "costo_total": 188900.0, "cantidad": 1.0}, {"razon_social": "DRYSDALE OSCAR ISIDRO, CANALE EDUARDO DANIEL", "costo_total": 238225.0, "cantidad": 2.0}, {"razon_social": "USICOM S.A.", "costo_total": 1610350.0, "cantidad": 1.0}, {"razon_social": "CASA DAGLIO S.A.", "costo_total": 138644.0, "cantidad": 253.0}, {"razon_social": "CONFAL S.A.", "costo_total": 28894.600000000002, "cantidad": 450.0}, {"razon_social": "BIGLIANTE,MARCOS ROMAN", "costo_total": 198000.0, "cantidad": 2.0}, {"razon_social": "BLANCO, GUSTAVO GABRIEL", "costo_total": 31720.0, "cantidad": 13.0}, {"razon_social": "DE LAZZARI PABLO ALEJANDRO", "costo_total": 448283.0, "cantidad": 6607.0}, {"razon_social": "BOVATI,MARIO SERGIO", "costo_total": 132015.0, "cantidad": 1350.0}, {"razon_social": "RICARDO J Y SANTIAGO J. PAZ", "costo_total": 58560.0, "cantidad": 480.0}, {"razon_social": "ANDOLFATTI HECTOR A.", "costo_total": 521898.0, "cantidad": 1333.0}, {"razon_social": "MAGGIORI, ESTANISLAO", "costo_total": 56920.0, "cantidad": 225.0}, {"razon_social": "WAGNER SARA MARIA", "costo_total": 129280.0, "cantidad": 18000.0}, {"razon_social": "SAPEDA SRL", "costo_total": 391600.0, "cantidad": 40000.0}, {"razon_social": "EMPAQUES TANDIL S.R.L", "costo_total": 52225.62, "cantidad": 6274.0}, {"razon_social": "DAEDAZ S.A.", "costo_total": 276242.9, "cantidad": 40180.0}, {"razon_social": "GUILLERMO SIMONE S.A.", "costo_total": 310000.0, "cantidad": 1.0}, {"razon_social": "GAUCHO MIX S.R.L.", "costo_total": 114300.0, "cantidad": 110.0}, {"razon_social": "ANDRES,ANTONIO OSVALDO", "costo_total": 352800.0, "cantidad": 1440.0}, {"razon_social": "CASYMA S.A.", "costo_total": 412560.0, "cantidad": 4040.0}, {"razon_social": "QUIMICA ESSIG S.R.L", "costo_total": 99240.68, "cantidad": 1.0}, {"razon_social": "CONFORT CLIMA S.R.L", "costo_total": 81210.0, "cantidad": 2.0}, {"razon_social": "TRIPODI GUSTAVO DANIEL", "costo_total": 216000.0, "cantidad": 1.0}, {"razon_social": "ALVAREZ PABLO GUILLERMO", "costo_total": 256642.0, "cantidad": 2.0}, {"razon_social": "RUMBO HNOS. Y GUTIERREZ S.C.", "costo_total": 36750.0, "cantidad": 42.0}, {"razon_social": "DE PAOLI FRANCO ANTONIO", "costo_total": 77400.0, "cantidad": 30.0}, {"razon_social": "TECNOTRANS S.R.L", "costo_total": 98085.0, "cantidad": 57.0}, {"razon_social": "CONSTRUCTORA ARCA S.R.L.", "costo_total": 147000.0, "cantidad": 1.0}, {"razon_social": "GARBELLINI, ROBERTO", "costo_total": 724371.5, "cantidad": 107290.0}, {"razon_social": "CLEAR URBANA S.A", "costo_total": 219400.0, "cantidad": 1.0}, {"razon_social": "BARBIERI,PEDRO ANTONIO", "costo_total": 95400.0, "cantidad": 1.0}, {"razon_social": "HERBON MARCELO I", "costo_total": 1390.0, "cantidad": 1.0}, {"razon_social": "SALVI,OSVALDO A  Y SALVI,,PABLO A.-", "costo_total": 334781.0, "cantidad": 588.0}, {"razon_social": "GIRBAU OSVALDO MARCELO", "costo_total": 312103.0, "cantidad": 3.0}, {"razon_social": "DESARROLLOS Y SOLUCIONES EN INTERNET SA", "costo_total": 216590.0, "cantidad": 1.0}, {"razon_social": "VIVO SILVIA EDITH", "costo_total": 128602.92999999998, "cantidad": 1033.0}, {"razon_social": "MADAFLAX S.R.L.", "costo_total": 204000.0, "cantidad": 1.0}, {"razon_social": "PASKVAN CARLOS HECTOR", "costo_total": 314977.0, "cantidad": 88.0}, {"razon_social": "VTS CONSTRUCCIONES S.R.L.", "costo_total": 3550000.0, "cantidad": 1.0}, {"razon_social": "DISTRIBUIDORA MAYORISTA EN LIBRERIA S.A.", "costo_total": 22596.1, "cantidad": 1230.0}, {"razon_social": "DIAS CRISTIAN ESTEBAN", "costo_total": 45090.44000000001, "cantidad": 491.0}, {"razon_social": "SERYTEC S.A.", "costo_total": 225245.0, "cantidad": 5.0}, {"razon_social": "COOPERATIVA DE TRABAJO EL CUSTODIO LTDA", "costo_total": 826588.0, "cantidad": 16612.0}, {"razon_social": "ZYA S.A.", "costo_total": 2828477.5700000003, "cantidad": 2.0}, {"razon_social": "CORIPA S.A.", "costo_total": 717410.0800000001, "cantidad": 20032.0}, {"razon_social": "E.F.I. TANDIL S.R.L", "costo_total": 9600.0, "cantidad": 15.0}, {"razon_social": "SORSA S.A.", "costo_total": 8865645.129999999, "cantidad": 3.0}, {"razon_social": "AUTOSERVICIO MAYORISTA DIARCO S.A.", "costo_total": 170564.35, "cantidad": 24540.0}, {"razon_social": "MORENO DIEGO MARTIN", "costo_total": 130950.0, "cantidad": 170000.0}, {"razon_social": "FARINELLI  MATIAS CARLOS", "costo_total": 168000.0, "cantidad": 1600.0}, {"razon_social": "BRAZZOLA, ROBERTO OSCAR Y BRAZZOLA, JUAN ALBERTO S.H.", "costo_total": 13740.0, "cantidad": 22.0}, {"razon_social": "DAMIANO HORACIO", "costo_total": 160000.0, "cantidad": 1.0}, {"razon_social": "BARACH ANDR\u00c9S JAVIER", "costo_total": 746866.0, "cantidad": 2.0}, {"razon_social": "BURG S.A.", "costo_total": 152400.0, "cantidad": 1.0}, {"razon_social": "OSCAR H. PIAGENTINI S.A.", "costo_total": 1339511.0, "cantidad": 6278.0}, {"razon_social": "CERRO FEDERACION S.A.", "costo_total": 2637903.0, "cantidad": 40800.0}, {"razon_social": "MICHELINI ADRIAN", "costo_total": 48840.0, "cantidad": 18.0}, {"razon_social": "ZINIK PABLO ARIEL", "costo_total": 242100.0, "cantidad": 903200.0}, {"razon_social": "AIR MAKERS S.R,.L.", "costo_total": 238304.51, "cantidad": 1.0}, {"razon_social": "BERTOGLIO JOSE MARIA", "costo_total": 183750.0, "cantidad": 210.0}, {"razon_social": "ABERASTEGUI FONSECA EMMANUEL JUAN PABLO", "costo_total": 5584.0, "cantidad": 16.0}, {"razon_social": "GARFAGNOLI, ABEL ARNALDO", "costo_total": 73350.0, "cantidad": 150.0}, {"razon_social": "ESCALADA ERNESTO", "costo_total": 305700.0, "cantidad": 2.0}, {"razon_social": "BASSO, MARIO GUSTAVO", "costo_total": 754800.0, "cantidad": 240000.0}, {"razon_social": "MONDELLO, MONICA ROSANA", "costo_total": 84800.0, "cantidad": 1.0}, {"razon_social": "TEJADA,BLANCA BEATRIZ", "costo_total": 44850.0, "cantidad": 150.0}, {"razon_social": "BAHIA AUTOMOTORES S.A.", "costo_total": 937982.0, "cantidad": 4.0}, {"razon_social": "BARBOSA OSVALDO OMAR", "costo_total": 78890.0, "cantidad": 1.0}, {"razon_social": "DI GIORGIO, WALTER ALBERTO", "costo_total": 20820.0, "cantidad": 3000.0}, {"razon_social": "BALDOVINO RAUL", "costo_total": 16438.9, "cantidad": 1430.0}, {"razon_social": "QUARANTA MARIO DANTE", "costo_total": 2229305.0, "cantidad": 5.0}, {"razon_social": "AMAND DE MENDIETA JUAN CLAUDIO", "costo_total": 65000.0, "cantidad": 1.0}, {"razon_social": "RETSAM S.R.L.", "costo_total": 7716.0, "cantidad": 240.0}, {"razon_social": "DIZ PABLO IGNACIO", "costo_total": 2808000.0, "cantidad": 1.0}, {"razon_social": "SUPERMERCADOS MAYORISTAS MAKRO S.A.", "costo_total": 325595.0, "cantidad": 46000.0}, {"razon_social": "IVORRA WALTER", "costo_total": 90940.0, "cantidad": 25.0}, {"razon_social": "NICOLL S.A.", "costo_total": 938163.8999999999, "cantidad": 1710.0}, {"razon_social": "TEJADA, BLANCA BEATRIZ", "costo_total": 44850.0, "cantidad": 150.0}, {"razon_social": "BARRACA SANTAMARINA S.R.L.", "costo_total": 109600.46, "cantidad": 2080.0}, {"razon_social": "MEDINA,OSMAR ALBERTO", "costo_total": 126050.0, "cantidad": 1.0}, {"razon_social": "SUCESION DE SALVAREZZA RICARDO JULIO", "costo_total": 44460.0, "cantidad": 180.0}, {"razon_social": "GARCIA, JORGE LUIS", "costo_total": 37800.0, "cantidad": 1.0}, {"razon_social": "SANCHEZ CARLOS Y RETONDO MARTIN S.H.", "costo_total": 530975.0, "cantidad": 2.0}, {"razon_social": "MATELEC S.A.", "costo_total": 2374.56, "cantidad": 461.0}, {"razon_social": "GALIZIO CONSTRUCCIONES S.R.L.", "costo_total": 30953771.82, "cantidad": 4.0}, {"razon_social": "SUCESION DE CICCIMARRA JOSE RICARDO", "costo_total": 638138.0800000001, "cantidad": 4484.0}, {"razon_social": "CARRANZA VIAL S.R.L.", "costo_total": 797489.0, "cantidad": 3.0}, {"razon_social": "GHEZAN HNOS S.C.", "costo_total": 457319.36, "cantidad": 972.0}, {"razon_social": "IVECAM S.A.", "costo_total": 599000.0, "cantidad": 1.0}, {"razon_social": "FERNANDEZ ANGELA MARIA", "costo_total": 147000.0, "cantidad": 168.0}, {"razon_social": "GARCIARENA MATIAS M.,GARCIARENA MIGUEL A. Y GARCIARENA AGUSTIN M. S.H.", "costo_total": 84660.0, "cantidad": 83.0}, {"razon_social": "PETROTANDIL S.A.", "costo_total": 3890979.0, "cantidad": 326206.0}, {"razon_social": "BRUNO CONSTRUCCIONES S.A.", "costo_total": 3966815.98, "cantidad": 1.0}, {"razon_social": "Sucesion de BELTRACHINI, JORGE H.", "costo_total": 290400.0, "cantidad": 3000.0}, {"razon_social": "ALVAREZ LEANDRO", "costo_total": 110250.0, "cantidad": 126.0}, {"razon_social": "BENITEZ,MIGUEL ANGEL", "costo_total": 237800.0, "cantidad": 2.0}, {"razon_social": "CAMINOS SERRANOS S.R.L.", "costo_total": 75600.0, "cantidad": 1.0}, {"razon_social": "ABALO GUSTAVO GABRIEL", "costo_total": 46850.0, "cantidad": 1.0}, {"razon_social": "GALARZA,CARLOS TOMAS", "costo_total": 284523.0, "cantidad": 2.0}, {"razon_social": "BUITR0N CLIMA S.R.L.", "costo_total": 281166.0, "cantidad": 1.0}, {"razon_social": "KORVIAL S.R.L.", "costo_total": 1201470.7, "cantidad": 191.0}, {"razon_social": "CRISTACOL S.A.", "costo_total": 923990.0, "cantidad": 8225.0}, {"razon_social": "CHEVES,JOSE R", "costo_total": 6037.200000000001, "cantidad": 2.0}, {"razon_social": "SALIGARI CARLOS JOSE", "costo_total": 51800.0, "cantidad": 1.0}, {"razon_social": "SEGURTAND S.R.L", "costo_total": 1572749.9200000002, "cantidad": 19376.0}, {"razon_social": "CAVALLERI,JOSE MARIA", "costo_total": 10303.49, "cantidad": 4.608}, {"razon_social": "TALLERES BALLINI S.R.L", "costo_total": 254440.33000000002, "cantidad": 3.0}, {"razon_social": "BARTEL NATALIA", "costo_total": 363692.1, "cantidad": 183.988}, {"razon_social": "VECINO GRACIELA BEATRIZ", "costo_total": 36750.0, "cantidad": 42.0}];
 
-// call the method below
-showScatterPlot(adjudicatarios);
+// just to have some space around items.
+var margins = {
+    "left": 100,
+    "right": 30,
+    "top": 30,
+    "bottom": 30
+};
 
-function showScatterPlot(data) {
-    // just to have some space around items.
-    var margins = {
-        "left": 100,
-            "right": 30,
-            "top": 30,
-            "bottom": 30
-    };
+var width = 1600;
+var height = 1000;
 
-    var width = 1000;
-    var height = 800;
+// this will be our colour scale. An Ordinal scale.
+var colors = d3.scale.category10();
 
-    // this will be our colour scale. An Ordinal scale.
-    var colors = d3.scale.category10();
+// we add the SVG component to the adjudicatarios-scatter div
+var svg = d3.select("#adjudicatarios-scatter").append("svg").attr("width", width).attr("height", height).append("g")
+    .attr("transform", "translate(" + margins.left + "," + margins.top + ")");
 
-    // we add the SVG component to the scatter-load div
-    var svg = d3.select("#scatter-load").append("svg").attr("width", width).attr("height", height).append("g")
-        .attr("transform", "translate(" + margins.left + "," + margins.top + ")");
+d3.json("output/adjudicatarios.json", function showScatterPlot(data) {
 
     // this sets the scale that we're using for the X axis.
-    // the domain define the min and max variables to show. In this case, it's the min and max prices of items.
-    // this is made a compact piece of code due to d3.extent which gives back the max and min of the price variable within the dataset
+    // the domain define the min and max variables to show. In this case, it's the min and max costo_total of items.
+    // this is made a compact piece of code due to d3.extent which gives back the max and min of the costo_total variable within the dataset
     var x = d3.scale.log()
         .domain(d3.extent(data, function (d) {
         return d.costo_total;
@@ -71,7 +70,7 @@ function showScatterPlot(data) {
     // the range maps the domain to values from 0 to the width minus the left and right margins (used to space out the visualization)
         .range([0, width - margins.left - margins.right]);
 
-    // this does the same as for the y axis but maps from the rating variable to the height to 0.
+    // this does the same as for the y axis but maps from the cantidad variable to the height to 0.
     var y = d3.scale.log()
         .domain(d3.extent(data, function (d) {
         return d.cantidad;
@@ -100,36 +99,34 @@ function showScatterPlot(data) {
     svg.selectAll("g.y.axis").call(yAxis);
     svg.selectAll("g.x.axis").call(xAxis);
 
-    // now, we can get down to the data part, and drawing stuff. We are telling D3 that all nodes (g elements with class node) will have data attached to them. The 'key' we use (to let D3 know the uniqueness of items) will be the name. Not usually a great key, but fine for this example.
-    var chocolate = svg.selectAll("g.node").data(data, function (d) {
+    // now, we can get down to the data part, and drawing stuff. We are telling D3 that all nodes (g elements with class node) will have data attached to them. The 'key' we use (to let D3 know the uniqueness of items) will be the razon_social. Not usually a great key, but fine for this example.
+    var adjudicatario = svg.selectAll("g.node").data(data, function (d) {
         return d.razon_social;
     });
 
     // we 'enter' the data, making the SVG group (to contain a circle and text) with a class node. This corresponds with what we told the data it should be above.
 
-    var chocolateGroup = chocolate.enter().append("g").attr("class", "node")
+    var adjudicatariosGroup = adjudicatario.enter().append("g").attr("class", "node")
     // this is how we set the position of the items. Translate is an incredibly useful function for rotating and positioning items
     .attr('transform', function (d) {
         return "translate(" + x(d.costo_total) + "," + y(d.cantidad) + ")";
     });
 
     // we add our first graphics element! A circle!
-    chocolateGroup.append("circle")
+    adjudicatariosGroup.append("circle")
         .attr("r", 5)
         .attr("class", "dot")
         .style("fill", function (d) {
-            // remember the ordinal scales? We use the colors scale to get a colour for our manufacturer. Now each node will be coloured
-            // by who makes the chocolate.
             return colors(d.razon_social);
     });
 
     // now we add some text, so we can see what each item is.
-    chocolateGroup.append("text")
+    adjudicatariosGroup.append("text")
         .style("text-anchor", "middle")
         .attr("dy", -10)
         .text(function (d) {
-            // this shouldn't be a surprising statement.
             return d.razon_social;
     });
-}
+
+});
 </script>
