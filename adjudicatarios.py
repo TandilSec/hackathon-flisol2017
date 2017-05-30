@@ -45,8 +45,7 @@ if __name__ == '__main__':
                 adjudicatarios[razon_social]["cantidad"] += float(adjudicacion["Cant. Adj."])
                 adjudicatarios[razon_social]["costo_total"] += float(adjudicacion["Costo T."])
 
-
     adjudicatarios = [v for x,v in adjudicatarios.items()]
 
-    with open("adjudicatarios.json", "w") as f:
+    with open("output/adjudicatarios.json", "w") as f:
         json.dump(adjudicatarios, f, sort_keys=True, indent=4)
