@@ -56,7 +56,7 @@ los paquetes `python` del sistema. Un tutorial se puede encontrar en el siguient
 
 ### Adjudicatarios
 
-* [Distribución de adjudicatarios segun monto y costo total de adjudicaciones](https://cdn.rawgit.com/TandilSec/hackathon-flisol2017/abf80741/adjudicatarios.html).
+* [Distribución de adjudicatarios segun monto y costo total de adjudicaciones](https://rawgit.com/TandilSec/hackathon-flisol2017/master/adjudicatarios.html).
 
 ### Ideas
 
