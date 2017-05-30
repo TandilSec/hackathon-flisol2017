@@ -4,6 +4,9 @@ Cómo parte del [FliSol Tandil 2017](http://flisol.info/FLISOL2017/Argentina/Tan
 se realizó un hackaton de datos abiertos. La temática que elegimos fue datos públicos
 de licitaciones y compras realizadas por el Municipio de Tandil.
 
+En Mayo de 2017 se realizó un [hackaton](https://www.meetup.com/TandilSec/events/240195307/) adicional donde continuamos con el trabajo arrancado
+en el FliSol Tandil 2017.
+
 ![Flyer](hackathon-flisoltandil2017-flyer.png)
 
 # Objetivos
