@@ -8,6 +8,11 @@ text {
 
 </style>
 <body>
+    <h1>Hackaton de Datos Abiertos - FliSol Tandil 2017</h1>
+    <h3>Distribución de adjudicatarios. El tamaño de cada burbuja representa la suma total en adjudicada en licitaciones.  El color representa la cantidad de adjudicaciones.</h3>
+    <div id="adjudicatarios-burbujas"></div>
+</body>
+
 <script src="//d3js.org/d3.v4.js"></script>
 <script>
 
@@ -21,7 +26,7 @@ text {
             .size([diameter, diameter])
             .padding(1.5);
 
-    var svg = d3.select("body").append("svg")
+    var svg = d3.select("#adjudicatarios-burbujas").append("svg")
             .attr("width", diameter)
             .attr("height", diameter)
             .attr("class", "bubble");
