@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+text {
+  font: 10px sans-serif;
+}
+
+</style>
+<body>
+<script src="//d3js.org/d3.v4.js"></script>
+<script>
+
+    // Based on https://bl.ocks.org/john-guerra/0d81ccfd24578d5d563c55e785b3b40a
+
+    var diameter = 960,
+            format = d3.format(",d"),
+            color = d3.scaleOrdinal(d3.schemeCategory20c);
+
+    var bubble = d3.pack()
+            .size([diameter, diameter])
+            .padding(1.5);
+
+    var svg = d3.select("body").append("svg")
+            .attr("width", diameter)
+            .attr("height", diameter)
+            .attr("class", "bubble");
+
+    d3.json("output/adjudicatarios.json", function(error, data) {
+        if (error) throw error;
+
+        var root = d3.hierarchy(wrap(data))
+                .sum(function(d) {
+                    return d.costo_total; })
+                .sort(function(a, b) { return b.costo_total - a.costo_total; });
+
+        bubble(root);
+        var node = svg.selectAll(".node")
+                .data(root.children)
+                .enter().append("g")
+                .attr("class", "node")
+                .attr("transform", function(d) {
+                    return "translate(" + d.x + "," + d.y + ")";
+                });
+
+        node.append("title")
+                .text(function(d) {
+                    return d.data.razon_social + ": $" + format(d.value);
+                });
+
+        node.append("circle")
+                .attr("r", function(d) { return d.r; })
+                .style("fill", function(d) {
+                    return color(d.data.cantidad);
+                });
+
+
+        node.append("text")
+                .attr("dy", ".3em")
+                .style("text-anchor", "middle")
+                .text(function(d) {
+                    return d.data.razon_social.substring(0, d.r / 3); });
+    });
+
+    // Just wraps the data in {}.
+    function wrap(data) {
+        return { children: data }
+    }
+
+    d3.select(self.frameElement).style("height", diameter + "px");
+
+</script>
