@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+text {
+  font: 10px sans-serif;
+}
+
+</style>
+<body>
+    <h1>Hackaton de Datos Abiertos - FliSol Tandil 2017</h1>
+    <h3>Distribución de adjudicatarios. El tamaño de cada burbuja representa la suma total adjudicada en licitaciones.  El color representa la cantidad de adjudicaciones.</h3>
+    <div id="adjudicatarios-burbujas"></div>
+</body>
+
+<script src="//d3js.org/d3.v4.js"></script>
+<script>
+
+    // Based on https://bl.ocks.org/john-guerra/0d81ccfd24578d5d563c55e785b3b40a
+
+    var diameter = 960,
+            format = d3.format(",d"),
+            color = d3.scaleOrdinal(d3.schemeCategory20c);
+
+    var bubble = d3.pack()
+            .size([diameter, diameter])
+            .padding(1.5);
+
+    var svg = d3.select("#adjudicatarios-burbujas").append("svg")
+            .attr("width", diameter)
+            .attr("height", diameter)
+            .attr("class", "bubble");
+
+    var colorScale = d3.scaleLog()
+            .domain([1,1000000])
+            .range(['#FFFFA0', '#FF0000']);
+
+    d3.json("output/adjudicatarios.json", function(error, data) {
+        if (error) throw error;
+
+        var root = d3.hierarchy(wrap(data))
+                .sum(function(d) {
+                    return d.costo_total; })
+                .sort(function(a, b) { return b.costo_total - a.costo_total; });
+
+        bubble(root);
+        var node = svg.selectAll(".node")
+                .data(root.children)
+                .enter().append("g")
+                .attr("class", "node")
+                .attr("transform", function(d) {
+                    return "translate(" + d.x + "," + d.y + ")";
+                });
+
+        node.append("title")
+                .text(function(d) {
+                    return "Razon social: " + d.data.razon_social + "\n" +
+                            "Suma total adjudicada $" + format(d.value) + "\n" +
+                            "Cantidad de adjudicaciones: " + format(d.data.cantidad) + "\n" +
+                            "Promedio por adjudicación $:" + format(d.value / d.data.cantidad);
+                });
+
+        node.append("circle")
+                .attr("r", function(d) { return d.r; })
+                .style("fill", function(d) {
+                    return colorScale(d.data.cantidad);
+                });
+
+        node.append("text")
+                .attr("dy", ".3em")
+                .style("text-anchor", "middle")
+                .text(function(d) {
+                    return d.data.razon_social.substring(0, d.r / 3); });
+    });
+
+    // Just wraps the data in {}.
+    function wrap(data) {
+        return { children: data }
+    }
+
+    d3.select(self.frameElement).style("height", diameter + "px");
+
+</script>
